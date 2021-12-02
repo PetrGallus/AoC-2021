@@ -2,4 +2,4 @@
 Advent of Code 2021 Python
 
 
-git push origin master --force
+git push origin main --force
